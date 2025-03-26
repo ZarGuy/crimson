@@ -1,0 +1,15 @@
+﻿  Gamef.cpp
+C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(37,92): error C2512: Staff: нет подходящего конструктора по умолчанию
+      C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(9,7):
+       см. объявление "Staff"
+  
+C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(37,51): error C2614: Barista: недопустимая инициализация члена: "name" не является базовым классом или членом
+C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(37,63): error C2614: Barista: недопустимая инициализация члена: "salary" не является базовым классом или членом
+C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(37,79): error C2614: Barista: недопустимая инициализация члена: "level" не является базовым классом или членом
+C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(46,91): error C2512: Staff: нет подходящего конструктора по умолчанию
+      C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(9,7):
+       см. объявление "Staff"
+  
+C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(46,50): error C2614: Waiter: недопустимая инициализация члена: "name" не является базовым классом или членом
+C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(46,62): error C2614: Waiter: недопустимая инициализация члена: "salary" не является базовым классом или членом
+C:\Users\зеленый 1\Desktop\zAR\Gamef\Gamef.cpp(46,78): error C2614: Waiter: недопустимая инициализация члена: "level" не является базовым классом или членом
